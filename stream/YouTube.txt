@@ -1,0 +1,4 @@
+payload:
+  - '+.youtubei.googleapis.com'
+  - '+.googlevideo.com'
+  - '+.youtube.com'

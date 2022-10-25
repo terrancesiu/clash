@@ -1,0 +1,5 @@
+payload:
+  - '+.dashasiafox.akamaized.net'
+  - '+.staticasiafox.akamaized.net'
+  - '+.foxplus.com'
+  - '+.theplatform.com'

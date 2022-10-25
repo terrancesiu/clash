@@ -1,0 +1,4 @@
+payload:
+  - '+.phncdn.com'
+  - '+.pornhub.com'
+  - '+.pornhubpremium.com'

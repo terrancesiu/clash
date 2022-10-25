@@ -1,0 +1,4 @@
+payload:
+  - '+.twitch.tv'
+  - '+.twitchcdn.net'
+  - '+.ttvnw.net'

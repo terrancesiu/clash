@@ -1,0 +1,6 @@
+payload:
+  - '+.disneyplus.com'
+  - '+.disney-plus.net'
+  - '+.bamgrid.com'
+  - '+.cdn.registerdisney.go.com'
+  - '+.disneystreaming.com'

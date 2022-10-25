@@ -1,0 +1,5 @@
+payload:
+  - DOMAIN-KEYWORD,bbcfmt'
+  - DOMAIN-KEYWORD,uk-live'
+  - '+.bbc.co.uk'
+  - '+.bbci.co.uk'

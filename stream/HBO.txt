@@ -1,0 +1,11 @@
+payload:
+  - '+.44wilhpljf.execute-api.ap-southeast-1.amazonaws.com'
+  - '+.bcbolthboa-a.akamaihd.net'
+  - '+.cf-images.ap-southeast-1.prod.boltdns.net'
+  - '+.manifest.prod.boltdns.net'
+  - '+.s3-ap-southeast-1.amazonaws.com'
+  - '+.hbo.com'
+  - '+.hboasia.com'
+  - '+.hbogo.com'
+  - '+.hbogo.com'
+  - '+.hbogoasia.hk'

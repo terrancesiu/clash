@@ -1,0 +1,3 @@
+payload:
+  - '+.content.jwplatform.com'
+  - '+.videos-f.jwpsrv.com'

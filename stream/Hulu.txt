@@ -1,0 +1,5 @@
+payload:
+  - '+.happyon.jp'
+  - '+.hulu.com'
+  - '+.huluim.com'
+  - '+.hulustream.com'
